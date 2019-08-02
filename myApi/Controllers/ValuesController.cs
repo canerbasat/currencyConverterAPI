@@ -5,7 +5,6 @@ using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using myApi.Models;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 

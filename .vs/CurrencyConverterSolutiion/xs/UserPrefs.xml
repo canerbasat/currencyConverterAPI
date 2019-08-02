@@ -2,17 +2,19 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="myApi/Controllers/ConvertOperationsController.cs">
     <Files>
       <File FileName="myApi/Controllers/ValuesController.cs" Line="40" Column="25" />
-      <File FileName="myApi/Program.cs" Line="25" Column="1" />
-      <File FileName="myApi/Startup.cs" Line="19" Column="1" />
+      <File FileName="myApi/Program.cs" />
+      <File FileName="myApi/Startup.cs" />
       <File FileName="myApi/Controllers/ConvertOperationsController.cs" Line="12" Column="46" />
-      <File FileName="myApi/Properties/launchSettings.json" Line="21" Column="2" />
+      <File FileName="myApi/Properties/launchSettings.json" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CurrencyConverterSolutiion" expanded="True" selected="True">
+          <Node name="CurrencyConverterSolutiion" expanded="True">
             <Node name="myApi" expanded="True">
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="ValuesController.cs" selected="True" />
+              </Node>
               <Node name="Properties" expanded="True" />
             </Node>
           </Node>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sahabt/Projects/barisApi/myApi/myApi.csproj": {}
+    "/Users/sahabt/Desktop/currencyConverterAPI/myApi/myApi.csproj": {}
   },
   "projects": {
-    "/Users/sahabt/Projects/barisApi/myApi/myApi.csproj": {
+    "/Users/sahabt/Desktop/currencyConverterAPI/myApi/myApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sahabt/Projects/barisApi/myApi/myApi.csproj",
+        "projectUniqueName": "/Users/sahabt/Desktop/currencyConverterAPI/myApi/myApi.csproj",
         "projectName": "myApi",
-        "projectPath": "/Users/sahabt/Projects/barisApi/myApi/myApi.csproj",
+        "projectPath": "/Users/sahabt/Desktop/currencyConverterAPI/myApi/myApi.csproj",
         "packagesPath": "/Users/sahabt/.nuget/packages/",
-        "outputPath": "/Users/sahabt/Projects/barisApi/myApi/obj/",
+        "outputPath": "/Users/sahabt/Desktop/currencyConverterAPI/myApi/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

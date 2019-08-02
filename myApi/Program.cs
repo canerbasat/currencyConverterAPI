@@ -10,7 +10,6 @@ using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using barisApi.Controllers;
-using myApi.Models;
 using System.Net;
 
 namespace myApi
