@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{7F357B58-A70E-49CC-9135-91407DFAADF2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="myApi/Controllers/ConvertOperationsController.cs">
+    <Files>
+      <File FileName="myApi/Controllers/ValuesController.cs" Line="40" Column="25" />
+      <File FileName="myApi/Program.cs" Line="25" Column="1" />
+      <File FileName="myApi/Startup.cs" Line="19" Column="1" />
+      <File FileName="myApi/Controllers/ConvertOperationsController.cs" Line="10" Column="1" />
+      <File FileName="myApi/Properties/launchSettings.json" Line="21" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="barisApi" expanded="True">
+            <Node name="myApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../myApi/Controllers/ConvertOperationsController.cs" line="38" offsetX="-1" offsetY="-1" expression="@base" liveUpdate="False" />
+    <Watch file="../../../myApi/Controllers/ConvertOperationsController.cs" line="37" offsetX="-1" offsetY="-1" expression="rates" liveUpdate="False" />
+    <Watch file="../../../myApi/Controllers/ConvertOperationsController.cs" line="37" offsetX="-1" offsetY="-1" expression="rates" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.myApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

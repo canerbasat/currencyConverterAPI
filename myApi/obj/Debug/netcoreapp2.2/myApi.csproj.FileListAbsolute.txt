@@ -1,0 +1,14 @@
+/Users/sahabt/Projects/barisApi/myApi/bin/Debug/netcoreapp2.2/myApi.deps.json
+/Users/sahabt/Projects/barisApi/myApi/bin/Debug/netcoreapp2.2/myApi.runtimeconfig.json
+/Users/sahabt/Projects/barisApi/myApi/bin/Debug/netcoreapp2.2/myApi.runtimeconfig.dev.json
+/Users/sahabt/Projects/barisApi/myApi/bin/Debug/netcoreapp2.2/myApi.dll
+/Users/sahabt/Projects/barisApi/myApi/bin/Debug/netcoreapp2.2/myApi.pdb
+/Users/sahabt/Projects/barisApi/myApi/obj/Debug/netcoreapp2.2/myApi.csprojAssemblyReference.cache
+/Users/sahabt/Projects/barisApi/myApi/obj/Debug/netcoreapp2.2/myApi.csproj.CoreCompileInputs.cache
+/Users/sahabt/Projects/barisApi/myApi/obj/Debug/netcoreapp2.2/myApi.RazorAssemblyInfo.cache
+/Users/sahabt/Projects/barisApi/myApi/obj/Debug/netcoreapp2.2/myApi.RazorAssemblyInfo.cs
+/Users/sahabt/Projects/barisApi/myApi/obj/Debug/netcoreapp2.2/myApi.AssemblyInfoInputs.cache
+/Users/sahabt/Projects/barisApi/myApi/obj/Debug/netcoreapp2.2/myApi.AssemblyInfo.cs
+/Users/sahabt/Projects/barisApi/myApi/obj/Debug/netcoreapp2.2/myApi.RazorTargetAssemblyInfo.cache
+/Users/sahabt/Projects/barisApi/myApi/obj/Debug/netcoreapp2.2/myApi.dll
+/Users/sahabt/Projects/barisApi/myApi/obj/Debug/netcoreapp2.2/myApi.pdb
