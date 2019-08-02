@@ -55,6 +55,7 @@ namespace myApi.Controllers
 
         // PUT api/values/5
         [HttpPut("{id}")]
+        [ApiExplorerSettings(IgnoreApi = true)]
         public void Put(int id, [FromBody]string value)
         {
 
@@ -62,6 +63,7 @@ namespace myApi.Controllers
 
         // DELETE api/values/5
         [HttpDelete("{id}")]
+        [ApiExplorerSettings(IgnoreApi = true)]
         public void Delete(int id)
         {
         }
