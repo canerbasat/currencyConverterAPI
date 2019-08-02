@@ -1,2 +1,2 @@
 # currencyConverterAPI
-currencyConverterAPI
+currencyConverterAPI .Net Core Project
